@@ -8,3 +8,19 @@ The problem to be investigated in this study is the analysis of the Bank custome
 The main objectives of this project are To develop customer churn predictive model using supervised machine learning classifiers algorithms; To use the model to predict the potential churners and non-churners; To evaluate and compare the performance of the model based on Accuracy.
 
 
+
+
+
+
+**🛠️ Tools & Technologies Used:**
+
+Python
+
+Pandas & NumPy – data manipulation
+
+Seaborn & Matplotlib – visualization
+
+Scikit-learn – model building & evaluation
+
+Jupyter Notebook – for code & narrative
+
