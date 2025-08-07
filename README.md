@@ -1,6 +1,6 @@
 **Bank Customer Churn Prediction**
 
-This case study is based on Bank Customer Churn Prediction. Customer churn is a fundamental problem for all the companies and it is defined as the loss of customers because they move out to other competitors. 
+This project aims to predict customer churn in a bank using machine learning techniques. Churn refers to customers who leave (or stop using) a service. By analyzing customer behavior and demographic data, we build models to identify which customers are likely to churn — helping banks take proactive action to retain them.
 
 
 Problem Statement :
